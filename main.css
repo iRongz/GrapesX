@@ -17,9 +17,17 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .gjs-one-bg {
-  background-color: #19325D;
+  background-color: #333;
 }
 
 .gjs-four-color {
   color: #FF7319;
+}
+
+.gjs-pn-buttons {
+  display: inline-block;
+}
+
+.gjs-pn-panel {
+  text-align: right;
 }
