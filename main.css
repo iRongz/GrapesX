@@ -1,0 +1,25 @@
+html, body {
+  background-color: #f4ebf3;
+  font-family: roboto;
+}
+
+header {
+  margin-top: 4rem;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  color: #9f5497;
+}
+
+.jumbotron {
+  background-color: #d0bace;
+}
+
+.gjs-one-bg {
+  background-color: #19325D;
+}
+
+.gjs-four-color {
+  color: #FF7319;
+}
