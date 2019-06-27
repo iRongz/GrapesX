@@ -31,3 +31,7 @@ h1, h2, h3, h4, h5, h6,
 .gjs-pn-panel.gjs-pn-views {
   text-align: right;
 }
+
+.gjs-pn-panel.gjs-pn-views > .gjs-pn-buttons {
+  text-align: center;
+}
